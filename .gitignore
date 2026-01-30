@@ -1,0 +1,21 @@
+.gradle
+
+/gradle/
+
+*.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+settings.gradle
+gradlew.bat
+\gradlew
+
+*.log
+*.png
+
+# Project exclude paths
+/build/
